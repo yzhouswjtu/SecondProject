@@ -1,5 +1,5 @@
 
-// MFC1.cpp : 定义应用程序的类行为。
+// MFC1.cpp : 定义应用程序的类行为。修改1
 //
 
 #include "stdafx.h"
